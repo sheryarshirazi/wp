@@ -1,0 +1,34 @@
+
+
+
+
+
+
+Version :3.1.3
+Size :6.26MB
+Updated :2014-04-11
+Requirements:Android2.2
+Author :Yahoo
+Price :Free
+
+
+
+
+
+Description
+
+Get more out of your inbox
+Manage your mail on your phone or tablet with 1TB of free space. Receive instant alerts when new email arrives. Personalize your inbox with stunning Flickr themes that sync across all your devices.
+Favorite features
+-Switch between all of your Yahoo email accounts in one place.
+-Never miss a message in your inbox with instant alerts.
+-Send files, attach photos or take new ones while composing a message.
+-Read messages in full-screen with a tablet-optimized experience.
+Helpful tips
+-Swipe left or right in Message View to navigate between messages.
+-Create new or add to existing contacts by tapping on each email address.
+-Bulk-sort your mail by selecting multiple messages at once.
+Tell us what you think
+We are committed to building the best mobile experiences and would love to hear your feedback.
+Let us know your thoughts here: https://yahoo.uservoice.com/forums/210695
+Yahoo does not provide a local Swiss email service.

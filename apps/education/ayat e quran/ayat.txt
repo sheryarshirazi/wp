@@ -1,0 +1,24 @@
+Version :2.1.1
+Size :8.17MB
+Updated :2014-04-17
+Requirements:Android2.1
+Author :ETC KSU
+Price :Free
+Description
+
+Ayat : Holy Quran : KSU-Electronic Mosshaf project.
+Features :
+Viewing scanned(soft) copy of real printed Mosshaf.
+Providing copy of Mosshaf Al-Madina, copy of Mosshaf Al-Tajweed (colored according to Tajweed rules) and copy of Mosshaf Warsh (Rewayat Warsh An-Nafei').
+Holy Quran recitations by many famous reciters (two of them are by Rewayat Warsh an-Nafei').
+Repeating each Aya as many times as desired with time interval in between.
+Search through Holy Quran text.
+Direct browsing the Mosshaf by Sura/Aya(Chapter/Verse) , Juz(Part) or Page number.
+Six Arabic Tafsir(Commentary) "Al-Saa'di, Ibn-Katheer, Al-Baghawy, Al-Qortoby, Al-Tabary and Al-Waseet".
+One English Tafsir(Commentary) "Tafheem Al-Quran by Al-Maududi".
+E'rab(Grammar) Al-Quran by Qasim Da'aas.
+Text Translation of the Holy Quran meanings for more than 20 languages.
+Voice Translation of the Holy Quran meanings for two languages (English and Urdu).
+Sync between recitaion and Aya position in the Page (highlighting Aya while recited).
+Sync between recitaion and voice translation (repeat the translation after the recitation).
+Program Interface in both Arabic and English.

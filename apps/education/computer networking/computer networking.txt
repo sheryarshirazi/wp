@@ -1,0 +1,28 @@
+Version :2.10
+Size :670KB
+Updated :2013-04-14
+Requirements:Android1.5
+Author :m.r.androids
+Price :Free
+Description
+
+Computer networks can be described as two or more computing devices linked together for the purposes of sharing data or services. This application was created as a simple review for computer-based information system networking acronyms, terms and concepts. It has multiple choice style questions as an easy way to review brief questions while on the move. The intended audience ranges from High School students to Undergraduate Computer Scinece majors, professionals refreshing their knowledge, and non-native English speakers trying to improve their English technical vocabulary. This is meant to be a study aide and not an entertainment application. There are simple references for Common Acronyms, Common Networking Ports and the 7 Layer OSI Model. These applications were originally created for some students preparing for an exam. The developer quickly realized that other people may be interested in reviewing their knowledge too. Most questions are considered common knowledge and usually have been cross-referenced with at least two different sources. Please send suggestions for improvement and other comments to Mark at m.r.droids2012@gmail.com Thanks! 
+
+Features:
+* Questions and possible answers are shuffled randomly
+* Play offline
+* Unlimited Play
+* No advertisements
+* No registration necessary
+* No device permissions required
+
+This content is released under the Creative Commons 3.0 Attribution License available at: http://creativecommons.org/licenses/by/3.0/legalcode
+
+Keywords: free, trivia, game, quiz, test, certification, technical qualification, prep, network+, CS, COSC, computer science, IT, Information Technology, CBIS, 
+
+Sapere Aude!--Horace
+
+Recent changes:
+references updated
+
+Content rating: Everyone

@@ -1,0 +1,19 @@
+Version :1.4
+Size :4.36MB
+Updated :2014-03-18
+Requirements:Android2.2
+Author :Fitch Inc
+Price :Free
+Description
+
+Classical intelligent Board game is now available for android device. Now in chess you can play everywhere and always. The purpose of players is the attack of the enemy king without the possibility of a retaliatory move. The one who will not be able to ensure the protection of the king, loses the game. A draw in a game of chess can be by the decision of both opponents or in case of impossibility to give a checkmate to one of the kings.
+Chess for android placed on a square Board 8x8 cells. Vertical field numbered digits, horizontal - Latin letters. The cells are painted black and white, as sets of shapes players.
+The first goes the player with the white pieces, then they alternate moves. One cell allows you to be on top of only one figure. Skip the figures are prohibited from all but the horse.
+In chess there are two moves-exceptions - castling (exchange of places of the king and the rook, is to change the location of these figures) and move forward pawn in two cells (with the jump field under attack of the opponent). < Figure is removed from the chess field.
+Player announces Mat, when the opponent's king has no moves and is under the Shah.
+Game features:
+- excellent design;
+- the possibility to play with intelligence android;
+- the possibility to play with the other;
+- accounting of time in the game;
+- description of the rules.

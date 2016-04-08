@@ -1,0 +1,11 @@
+Version :2.3.4
+Size :13.33MB
+Updated :2014-02-08
+Requirements:Android2.2
+Author :Yamago
+Price :Free
+Description
+
+Are you growing tired of the standard snowboard games out there? Kick it up a notch with Xtrem Snowboarding for your Android device. Execute tricks and earn high scores in this fun and simple game.
+Jump in and slide down the slopes with ease. As soon as you jump off of a ramp, you must follow the colored dots with your finger to perform a trick. The more tricks you do for each ramp, the more points you'll earn. The game is over when you don't perform the required amount of tricks for the level.
+The faster you execute a trick, the more points you will earn per trick. If you hit the floor while you're in the middle of a trick (red dot), you crash and loose all the points for the current ramp. If it's an orange dot, you don't lose any points. When you land on a green dot, you'll pull off a perfect landing and earn double points.

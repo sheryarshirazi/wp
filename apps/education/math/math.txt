@@ -1,0 +1,29 @@
+Version :1.5.1
+Size :1.86MB
+Updated :2014-02-26
+Requirements:Android2.2
+Author :daboApps
+Price :Free
+Description
+
+- large display, tablet and landscape support
+- multiple formula calculations
+- plot with multiple functions
+- modulo calculation with big integer
+- differential and integral calculus
+- curve sketching, limes, minima, maxima
+- linear algebra, vectors, matrices
+- unit conversion
+- number systems, binary/oct/decimal/hex calculator
+- complex number calculation
+Supported languages:
+English, German, Francais, Espanol, Italian, Portuguese
+Mathematics is a powerful calculation software for your android smartphone.
+FEATURES
+Calculate any formula you want and show them in a 2d or 3d plot. The natural display shows fractions, roots and exponents as you would expect it from mathematics.
+In a few seconds you derivate or integrate your desired function, calculate the zero points of your function und show them in the function plot. See all maxima, minima or inflection points in one view.
+The easy way of use allows you to solve linear equations in just a moment. Or transform your mathematical, physical or chemical equation to any unknown variable.
+You often needs to calculate with binary, octal or hexadecimal number systems? No problem! You can mix them together in one calculation even by using decimal digits. But that's not enough! You can also calculate with any other number system with base 2 to 18.
+From time to time you may need to convert units to another one, like Celsius to Fahrenheit, miles to kilometre, inches to foot and so on.
+You will also be able to calculate with vectors, matrices and determinants.
+All this features are combined in this app and will make your mathematical life a lot easier.

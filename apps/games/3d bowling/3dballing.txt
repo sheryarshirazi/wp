@@ -1,0 +1,35 @@
+
+
+
+Version :2.6
+Size :10.59MB
+Updated :2014-01-27
+Requirements:Android2.0.1
+Author :Italy Games
+Price :Free
+Description
+
+This is the best and most realistic 3D bowling game on the Android phones. It is the only bowling game that fully embraces the incredible 3D physics engine and effects.
+Be the world's best player in 3D bowling game. How many consecutive strikes can you score?
+
+Game Features:
+- Stunning 3D graphics
+- State-of-the-art 3D physics engine for real pin action
+- 5 outrageous bowling scene
+- Multiple bowling balls in each scene
+- Detail stats tracking
+
+How to Play:
+1. Drag the ball to the left or right to position the ball for your throw
+2. Flick the ball with your finger to bowl
+3. Gesture a curve the screen to throw a hook ball
+
+Notes: The permissions required in this game is only used for online leader board. Thanks.
+
+Recent changes:
+v2.6: 
+1) Added one more set of bowling scene and balls
+2) Added More Game link in the main menu (moved online leader board into statistics page)
+Thanks for your love and kindly support!
+
+Content rating: Medium Maturity

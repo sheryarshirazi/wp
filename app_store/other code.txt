@@ -1,0 +1,35 @@
+//two files upload 
+
+	$filea = $_FILES['filea'];
+	$fileb = $_FILES['fileb'];
+	move_uploaded_file($filea['tmp_name'], '/path/to/your/destination/'.$filea['name']);
+
+	http://www.php.net/manual/en/features.file-upload.multiple.php
+
+
+
+
+//query for insert an app image link and .apk 
+
+INSERT INTO `androidapp`.`apps` (`app_id`, `app_name`, `app_desc`, `app_img`, `app_link`,
+
+`app_time`, `cat_id`) VALUES (NULL, 'dood', 'fun', 'img/dood.png', 'aap/dood.apk', '20:2', '1');
+
+
+
+//changing uploading size
+memory_limit=99M
+max_execution_time=300
+upload_maxfilesize=50M
+post_max_size=50M
+
+//update
+UPDATE `androidapp`.`apps` SET `cat_id` = '1' WHERE `apps`.`app_id` = 2;
+
+
+UPDATE `androidapp`.`apps` SET `app_cat` = 'Games' WHERE `apps`.`app_id` = 20;
+
+
+UPDATE `androidapp`.`apps` SET `app_name` = 'bmx boysdf',
+`app_desc` = 'Version :1.5 Size :7.59MB Updated :2014-01-27 Requirements:Android2.1
+Author :Runner Gamesdasd' WHERE `apps`.`app_id` = 17;
